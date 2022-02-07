@@ -2,7 +2,7 @@
 
 ## Olá, me Chamo Ramiro Brito, sou programador front end!
   <br/>
-  <div align="center">
+  <div display="flex" align="center">
     <a href="https://github.com/48jorgebrito">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=48jorgebrito&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=48jorgebrito&layout=compact&langs_count=7&theme=dark"/>
