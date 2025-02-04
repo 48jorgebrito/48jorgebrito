@@ -1,4 +1,4 @@
-## Olá, me chamo Ramiro Brito e full stack.
+## Olá, me chamo Ramiro Brito e sou desenvolvedor full stack.
   <br/>
   <div display="flex" align="center">
     <a href="https://github.com/48jorgebrito">
