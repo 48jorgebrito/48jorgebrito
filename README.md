@@ -11,11 +11,11 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center"  height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"
+    <img align="center"  height="30" width="40" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg"/>
   </div>
 
   ##
-  
+ 
   <div> 
   <a href="https://www.instagram.com/ramirobritto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jorgeramirobrito19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
